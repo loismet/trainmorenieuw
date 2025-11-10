@@ -39,13 +39,18 @@ Loïs Metzelaar
  Trainmore, link: https://trainmore.com/nl-NL/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
- Homepage
- <img width="3388" height="1888" alt="image" src="https://github.com/user-attachments/assets/402c3c42-b814-447a-9329-8fa250edacfe" />
+  Homepage
+  <img width="3382" height="1892" alt="image" src="https://github.com/user-attachments/assets/6429d0cd-3f56-4ec5-8193-114a2b5f4a23" />
+
+
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Memberships
-  <img width="3392" height="1886" alt="image" src="https://github.com/user-attachments/assets/31bc78ed-e057-46dc-ae6f-08621ace1878" />
+  Aura ring 4
+  <img width="3382" height="1892" alt="image" src="https://github.com/user-attachments/assets/8edfad82-73c3-4e7e-a6b1-f535b5b60f1e" />
+
+  
+
 
 
 </details>

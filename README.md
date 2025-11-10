@@ -39,14 +39,15 @@ Loïs Metzelaar
  Trainmore, link: https://trainmore.com/nl-NL/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+ Homepage
  <img width="3388" height="1888" alt="image" src="https://github.com/user-attachments/assets/402c3c42-b814-447a-9329-8fa250edacfe" />
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Memberships
+  <img width="3392" height="1886" alt="image" src="https://github.com/user-attachments/assets/31bc78ed-e057-46dc-ae6f-08621ace1878" />
 
- 
+
 </details>
 
 
